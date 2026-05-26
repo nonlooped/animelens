@@ -6,9 +6,9 @@ updates:
       interval: "weekly"
     open-pull-requests-limit: 5
     reviewers:
-      - "unloopedmido"
+      - "nonlooped"
     assignees:
-      - "unloopedmido"
+      - "nonlooped"
     commit-message:
       prefix: "deps"
       include: "scope"

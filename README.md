@@ -35,7 +35,7 @@ More functionality (dashboards, analytics, user stats, preferences) will be adde
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/unloopedmido/animelens.git
+   git clone https://github.com/nonlooped/animelens.git
    cd animelens
    ```
 
@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/unloopedmido/animelens/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/nonlooped/animelens/issues)
 - **Discord**: Join our community server (coming soon!)
 
 ---
