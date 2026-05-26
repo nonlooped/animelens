@@ -32,7 +32,7 @@
 		"ejs": "^3.1.10",
 		"express": "^5.1.0",
 		"prisma": "^6.16.2",
-		"uuid": "^13.0.0"
+		"uuid": "^14.0.0"
 	},
 	"repository": {
 		"type": "git",
